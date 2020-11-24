@@ -3,6 +3,7 @@
 # This script is used to identify a machine for support technicians
 # The script should be pre-loaded on all SIG machines and will display the following info:
 # Domain, Username, Hostname, Manufacturer, Model, IP Address(es), Serial number, and windows version
+# jacob was here
 
 # create a temp folder and temp file
 mkdir c:\temp
